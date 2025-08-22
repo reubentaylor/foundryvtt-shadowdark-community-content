@@ -2,10 +2,10 @@
     "id": "shadowdark-community-content",
     "title": "Shadowdark Community Content",
 	"description": "A collection of community provided content for Shadowdark RPG",
-    "version": "1.3",
+    "version": "1.4",
     "compatibility": {
-        "minimum": "12",
-        "verified": "12"
+        "minimum": "13",
+        "verified": "13"
     },
     "esmodules": [
         "scripts/main.mjs"
@@ -17,7 +17,7 @@
                 "type": "system",
                 "compatibility": {
                     "minimum": "3.2.0",
-                    "verified": "3.3.1"
+                    "verified": "3.6.0"
                 }
             }
         ]
