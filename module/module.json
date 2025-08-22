@@ -99,7 +99,7 @@
 			}
 		}
 	},
-    "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content",
-	"manifest": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/releases/latest/download/module.json",
-	"download": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/releases/download/release-v1.3/shadowdark-community-content.zip"
+    "url": "https://github.com/reubentaylor/foundryvtt-shadowdark-community-content",
+	"manifest": "https://github.com/reubentaylor/foundryvtt-shadowdark-community-content/blob/a340a4cfecb715b42f72df3cde747ec0a451e1b1/module/module.json",
+	"download": "https://github.com/reubentaylor/foundryvtt-shadowdark-community-content/blob/a340a4cfecb715b42f72df3cde747ec0a451e1b1/shadowdark-community-content.zip"
 }
